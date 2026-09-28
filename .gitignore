@@ -1,0 +1,6 @@
+context
+.env.local
+.env
+node_modules
+frontend/.next
+backend/.venv
